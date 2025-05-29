@@ -9,6 +9,4 @@
 
 ### 📫 Contact  
 📧 Email: noelngzhien1212@gmail.com  
-💼 LinkedIn: [linkedin.com/in/noelngzhien](https://www.linkedin.com/in/noelngzhien)  
-
-🚀 Check out my projects below!  
+💼 LinkedIn: [linkedin.com/in/noelngzhien](https://www.linkedin.com/in/noelngzhien)
