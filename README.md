@@ -1,11 +1,11 @@
 # Hi, I'm Noel 👋  
 
-🎓 Cybersecurity & Digital Forensics student at Ngee Ann Polytechnic  
+🎓 AI for Cybersecurity & Digital Forensics student at Ngee Ann Polytechnic  
 💻 Passionate about coding, ethical hacking, and building fun projects  
 📷 Also into photography in my free time  
 
 ### 🌐 Website  
-[retartle.github.io](https://retartle.github.dev)  
+[retartle.github.io](https://retartle.github.io)  
 
 ### 📫 Contact  
 📧 Email: noelngzhien1212@gmail.com  
